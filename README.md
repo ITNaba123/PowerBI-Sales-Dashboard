@@ -61,6 +61,7 @@ This project solves these challenges through **analytics + forecasting + dashboa
 ## 📊 Dashboard Preview
 
 ![Dashboard](./dashboard.png)
+![Dashboard](./dashboard2.png)
 
 ---
 
@@ -106,13 +107,8 @@ Data Collection → Data Cleaning → Data Analysis → Dashboard Creation → F
 
 ## ⚡ Getting Started
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-```
-
-### 2. Open Dashboard
+### 1. Open Dashboard
 
 * Open Power BI file
 * Interact with filters & visuals
